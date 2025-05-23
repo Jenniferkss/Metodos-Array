@@ -1,1 +1,15 @@
 # Ultilizando metodos de array no JavaScript 
+## Ultilizei novos metodos no array, como: 
+- push()
+- pop()
+- shift()
+- unshift()
+- include()
+- join()
+- slice()
+- splice()
+- concat()
+- map()
+- filter()
+- sort()
+- reverse() 
